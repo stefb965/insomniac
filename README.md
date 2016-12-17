@@ -1,5 +1,9 @@
 # node-starter
+<<<<<<< HEAD
 * A NodeJS starter application to try out on Runnable.io  
+=======
+* A NodeJS starter application to try out on Runnable.io
+>>>>>>> parent of 932f082... Update README.md
 
 ## Running locally
 
